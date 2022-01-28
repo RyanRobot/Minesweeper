@@ -1,0 +1,11 @@
+C:\Users\ryant\source\repos\rjohnso6Minesweeper\rjohnso6Minesweeper\bin\Debug\rjohnso6Minesweeper.exe.config
+C:\Users\ryant\source\repos\rjohnso6Minesweeper\rjohnso6Minesweeper\bin\Debug\rjohnso6Minesweeper.exe
+C:\Users\ryant\source\repos\rjohnso6Minesweeper\rjohnso6Minesweeper\bin\Debug\rjohnso6Minesweeper.pdb
+C:\Users\ryant\source\repos\rjohnso6Minesweeper\rjohnso6Minesweeper\obj\Debug\rjohnso6Minesweeper.csproj.AssemblyReference.cache
+C:\Users\ryant\source\repos\rjohnso6Minesweeper\rjohnso6Minesweeper\obj\Debug\rjohnso6Minesweeper.Form1.resources
+C:\Users\ryant\source\repos\rjohnso6Minesweeper\rjohnso6Minesweeper\obj\Debug\rjohnso6Minesweeper.Properties.Resources.resources
+C:\Users\ryant\source\repos\rjohnso6Minesweeper\rjohnso6Minesweeper\obj\Debug\rjohnso6Minesweeper.csproj.GenerateResource.cache
+C:\Users\ryant\source\repos\rjohnso6Minesweeper\rjohnso6Minesweeper\obj\Debug\rjohnso6Minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\ryant\source\repos\rjohnso6Minesweeper\rjohnso6Minesweeper\obj\Debug\rjohnso6Minesweeper.exe
+C:\Users\ryant\source\repos\rjohnso6Minesweeper\rjohnso6Minesweeper\obj\Debug\rjohnso6Minesweeper.pdb
+C:\Users\ryant\source\repos\rjohnso6Minesweeper\rjohnso6Minesweeper\obj\Debug\rjohnso6Minesweeper.Cell.resources
